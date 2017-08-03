@@ -1,0 +1,8 @@
+
+auth:
+   tweet_ac:
+        consumer_key: xxxxxxxx
+        consumer_secret: xxxxxx
+        access_token: xxxxxxx
+        access_token_secret: xxxxxx
+
